@@ -57,15 +57,17 @@ The script will fetch quotes from the website and save them in the scraped.csv f
 
 ## Example Output
 
-sample output saved in scraped.csv:
+Sample output saved in `scraped.csv`:
 QUOTES,AUTHORS
-	"The greatest glory in living lies not in never falling, but in rising every time we fall.",Nelson Mandela
-	"The way to get started is to quit talking and begin doing.",Walt Disney
+"The greatest glory in living lies not in never falling, but in rising every time we fall.",Nelson Mandela
+"The way to get started is to quit talking and begin doing.",Walt Disney
+“Your time is limited, so don’t waste it living someone else’s life.”,Steve Jobs
 ...
 
 ---
 
 ## Future Improvements
+
 - Pagination Handling to allow mulitple pages to be scraped.
 - Improve data extraxtion to include metadeta with each quote.
 
@@ -77,7 +79,7 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 ---
 
-Disclaimer
+##Disclaimer
 
 This project was for educational purposes only.
 
