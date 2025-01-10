@@ -45,9 +45,11 @@ This project adheres to the following ethical coding practices:
    cd quotes-web-scraper
 2.	**Install Required Libraries**:
 	Make sure you have Python installed, then install the required libraries:
-	```pip install requests beautifulsoup4
+	```bash
+	pip install requests beautifulsoup4
 3. **Run the Script**:
-	```main.py
+	```bash
+	main.py
 
 	The script will fetch quotes from the website and save them in the scraped.csv file.
 
