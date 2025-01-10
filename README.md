@@ -58,10 +58,9 @@ The script will fetch quotes from the website and save them in the scraped.csv f
 ## Example Output
 
 sample output saved in scraped.csv:
-	```bash
-	QUOTES,AUTHORS
-		"The greatest glory in living lies not in never falling, but in rising every time we fall.",Nelson Mandela
-		"The way to get started is to quit talking and begin doing.",Walt Disney
+	```QUOTES,AUTHORS
+	"The greatest glory in living lies not in never falling, but in rising every time we fall.",Nelson Mandela
+	"The way to get started is to quit talking and begin doing.",Walt Disney
 ...
 
 ---
